@@ -2,4 +2,8 @@ bb
 dd 
 edited in local 
 eee
+<<<<<<< HEAD
 remote
+=======
+local 
+>>>>>>> 2d2335f (local change)
